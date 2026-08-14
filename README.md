@@ -1,6 +1,6 @@
 <h1 align="center">Amber Lan</h1>
-<p align="center"><b>Marketing Engineer</b> · Auckland, NZ 🇳🇿</p>
-<p align="center">I write the go-to-market strategy <i>and</i> build the AI systems that run it —<br>content engines, inbound/outbound automation, SEO/AEO, and the software underneath.</p>
+<p align="center"><b>AI marketing engineer</b> · 双语营销工程师 · Auckland, NZ 🇳🇿</p>
+<p align="center">I run marketing solo at an AI startup, on an agent stack I built myself.<br>I publish what works, what breaks, and the real numbers. <b>This profile is the receipts.</b></p>
 
 <p align="center">
   <a href="https://www.flowai.co.nz">🌐 flowai.co.nz</a> ·
@@ -10,18 +10,22 @@
 
 ---
 
+### 🔨 Now
+
+Marketing Lead at an AI startup in Auckland: the whole function, one person plus an agent stack, from category positioning through launch. The clean-room versions of the systems I build land here as public repos. Build logs and experiments ship weekly.
+
 ### 🚀 Featured
 
 | Project | What it is | Stack |
 |---|---|---|
 | **[geo-seo-claude](https://github.com/Amberlanqinyun/geo-seo-claude)** | GEO/AEO-first SEO toolkit for Claude Code — citability scoring, AI-crawler analysis, schema markup, and PDF reports so brands get cited by ChatGPT, Claude & Perplexity. | Python |
 | **[Flow AI](https://github.com/Amberlanqinyun/flowainz)** | Automated, AI-search-optimised SEO content for NZ service businesses — a brief in, publish-ready pages out. | React · TS · Vite |
-| **[novie-content-engine](https://github.com/Amberlanqinyun/novie-content-engine)** | AI content engine: one book PDF in → a month of on-brand posts out, gated by a codified Voice Law so nothing reads "generated." | Python · Claude Code |
+| **[novie-content-engine](https://github.com/Amberlanqinyun/novie-content-engine)** | AI content engine: one source document in → a month of on-brand posts out, gated by a codified voice audit so nothing reads "generated." | Python · Claude Code |
 | **[social-media-os](https://github.com/Amberlanqinyun/social-media-os)** | Multi-platform publishing tooling — plan once, adapt per platform, ship on schedule. | TypeScript |
 
 ### 🧠 AI & marketing systems
 
-- **[finding-users-on-reddit-using-ai](https://github.com/Amberlanqinyun/finding-users-on-reddit-using-ai)** — surface and qualify potential users from Reddit with AI.
+- **[finding-users-on-reddit-using-ai](https://github.com/Amberlanqinyun/finding-users-on-reddit-using-ai)** — surface and qualify potential users from Reddit with AI: intent signal, not spray-and-pray.
 - **[novie-content-viewer](https://github.com/Amberlanqinyun/novie-content-viewer)** — read-only Vercel mirror of the content-engine dashboard. `Next.js · Vercel KV`
 - **[flow-ai](https://github.com/Amberlanqinyun/flow-ai)** — Flow AI alpha demo.
 
@@ -48,4 +52,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amberlanqinyun&layout=compact&hide_border=true&theme=vue" alt="Top languages" height="150">
 </p>
 
-<p align="center"><sub>💡 What is a marketing engineer? One person who designs the positioning <i>and</i> ships the inbound, outbound & content systems that execute it — no handoffs.</sub></p>
+<p align="center"><sub>💡 What is an AI marketing engineer? One person who writes the go-to-market strategy <i>and</i> builds the systems that run it. Practitioner, not guru: if I claim it, the receipt ships with it. 卖过程和凭证，不卖真理。</sub></p>
