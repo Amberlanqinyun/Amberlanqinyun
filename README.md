@@ -12,7 +12,7 @@
 
 ### 🔨 Now
 
-Marketing Lead at an AI startup in Auckland: the whole function, one person plus an agent stack, from category positioning through launch. The clean-room versions of the systems I build land here as public repos. Build logs and experiments ship weekly.
+Marketing Lead at an AI startup in Auckland: the whole function, one person plus an agent stack, from category positioning through launch. Founder of **[Flow AI](https://www.flowai.co.nz)** (flowai.co.nz), AI marketing engineering for NZ small and medium businesses: AI automation, agent systems, growth engineering, SEO and answer engine optimization. The clean-room versions of the systems I build land here as public repos. Build logs and experiments ship weekly.
 
 ### 🚀 Featured
 
