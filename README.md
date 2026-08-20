@@ -68,9 +68,4 @@ Documenting my evolution from marketer to marketing engineer, in public. Marketi
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amberlanqinyun&show_icons=true&hide_border=true&count_private=true&theme=vue" alt="GitHub stats for Amber Lan (Amberlanqinyun)" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amberlanqinyun&layout=compact&hide_border=true&theme=vue" alt="Top languages for Amber Lan (Amberlanqinyun)" height="150">
-</p>
-
 <p align="center"><sub>I'm documenting my evolution from marketer to marketing engineer: one person, a whole marketing function, run on AI systems I build and judge.<br>公开记录一个市场人变成营销工程师的全过程。卖过程和凭证。</sub></p>
