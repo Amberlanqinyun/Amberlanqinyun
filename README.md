@@ -4,70 +4,70 @@
 
 I'm an AI marketing engineer in Auckland, New Zealand. I run the whole marketing function at an AI startup, solo, on agent systems I build myself. I also run [Flow AI](https://www.flowai.co.nz), AI marketing engineering for New Zealand small businesses. The systems are public here. Claims ship with receipts.
 
-🌐 [flowai.co.nz](https://www.flowai.co.nz) · 💼 [LinkedIn](https://www.linkedin.com/in/amberlan/) · ✉️ [Email](mailto:amber.lan.growth.digital@gmail.com)
+[flowai.co.nz](https://www.flowai.co.nz) · [LinkedIn](https://www.linkedin.com/in/amberlan/) · [Email](mailto:amber.lan.growth.digital@gmail.com)
 
 ---
 
-## 🆕 New: Outreach
+## New: Outreach
 
 Describe your product. It finds the people who fit and tells you why each one does.
 
-🎯 [**Outreach**](https://github.com/Amberlanqinyun/Outreach) - Open-source AI lead finder. Live at [openoutreach.app](https://openoutreach.app)
+[**Outreach**](https://github.com/Amberlanqinyun/Outreach) - Open-source AI lead finder. Live at [openoutreach.app](https://openoutreach.app)
 
 ---
 
-## ⭐ Featured projects
+## Featured projects
 
 The ones that run real marketing today.
 
-🔍 [**geo-seo-claude**](https://github.com/Amberlanqinyun/geo-seo-claude) - GEO/AEO toolkit for Claude Code: citability scoring, AI crawler analysis, schema markup, PDF reports. Get cited by ChatGPT, Claude and Perplexity
+[**geo-seo-claude**](https://github.com/Amberlanqinyun/geo-seo-claude) - GEO/AEO toolkit for Claude Code: citability scoring, AI crawler analysis, schema markup, PDF reports. Get cited by ChatGPT, Claude and Perplexity
 
-📣 [**claude-ads**](https://github.com/Amberlanqinyun/claude-ads) - Paid-media operations skill for Claude Code across 12 ad platforms: source-grounded audits, deterministic scoring, versioned reports
+[**claude-ads**](https://github.com/Amberlanqinyun/claude-ads) - Paid-media operations skill for Claude Code across 12 ad platforms: source-grounded audits, deterministic scoring, versioned reports
 
-✍️ [**novie-content-engine**](https://github.com/Amberlanqinyun/novie-content-engine) - One source document becomes a month of on-brand posts, gated by a codified voice audit so nothing reads "generated"
+[**novie-content-engine**](https://github.com/Amberlanqinyun/novie-content-engine) - One source document becomes a month of on-brand posts, gated by a codified voice audit so nothing reads "generated"
 
-🌐 [**flowainz**](https://github.com/Amberlanqinyun/flowainz) - Flow AI: automated, AI-search-optimised SEO content for NZ service businesses. A brief goes in, publish-ready pages come out
+[**flowainz**](https://github.com/Amberlanqinyun/flowainz) - Flow AI: automated, AI-search-optimised SEO content for NZ service businesses. A brief goes in, publish-ready pages come out
 
 ---
 
-## 🔍 Search & AI visibility
+## Search & AI visibility
 
 Getting brands found by search engines and answer engines.
 
-🔍 [**geo-seo-claude**](https://github.com/Amberlanqinyun/geo-seo-claude) - GEO/AEO toolkit for Claude Code
+[**geo-seo-claude**](https://github.com/Amberlanqinyun/geo-seo-claude) - GEO/AEO toolkit for Claude Code
 
-🌐 [**flowainz**](https://github.com/Amberlanqinyun/flowainz) - AI-search-optimised SEO content, brief to publish-ready page
+[**flowainz**](https://github.com/Amberlanqinyun/flowainz) - AI-search-optimised SEO content, brief to publish-ready page
 
-📊 [**AI-readiness benchmark**](https://www.flowai.co.nz/tools/benchmark.html) - A 2-minute check of how visible your business is to AI search. No email required
+[**AI-readiness benchmark**](https://www.flowai.co.nz/tools/benchmark.html) - A 2-minute check of how visible your business is to AI search. No email required
 
 ---
 
-## ✍️ Content & outbound
+## Content & outbound
 
 Systems that write, publish, and find the right people.
 
-✍️ [**novie-content-engine**](https://github.com/Amberlanqinyun/novie-content-engine) - One document, a month of posts, voice audit included
+[**novie-content-engine**](https://github.com/Amberlanqinyun/novie-content-engine) - One document, a month of posts, voice audit included
 
-📅 [**social-media-os**](https://github.com/Amberlanqinyun/social-media-os) - Plan once, ship platform-native versions on schedule
+[**social-media-os**](https://github.com/Amberlanqinyun/social-media-os) - Plan once, ship platform-native versions on schedule
 
-🎯 [**Outreach**](https://github.com/Amberlanqinyun/Outreach) - Open-source AI lead finder
+[**Outreach**](https://github.com/Amberlanqinyun/Outreach) - Open-source AI lead finder
 
-🧭 [**finding-users-on-reddit-using-ai**](https://github.com/Amberlanqinyun/finding-users-on-reddit-using-ai) - Finds people already describing your problem on Reddit and qualifies them by intent
+[**finding-users-on-reddit-using-ai**](https://github.com/Amberlanqinyun/finding-users-on-reddit-using-ai) - Finds people already describing your problem on Reddit and qualifies them by intent
 
-📣 [**claude-ads**](https://github.com/Amberlanqinyun/claude-ads) - Paid-media audits and changes across 12 ad platforms from Claude Code
+[**claude-ads**](https://github.com/Amberlanqinyun/claude-ads) - Paid-media audits and changes across 12 ad platforms from Claude Code
 
 ---
 
-## 🌿 Apps
+## Apps
 
 Things I built because I wanted them to exist.
 
-📓 [**flowaistudio**](https://github.com/Amberlanqinyun/flowaistudio) - Purposeful planner and journal templates for the reMarkable paper tablet
+[**flowaistudio**](https://github.com/Amberlanqinyun/flowaistudio) - Purposeful planner and journal templates for the reMarkable paper tablet
 
-🌏 [**mind-traveller-storybook**](https://github.com/Amberlanqinyun/mind-traveller-storybook) - Pick a country, get a curated 4-week cultural programme
+[**mind-traveller-storybook**](https://github.com/Amberlanqinyun/mind-traveller-storybook) - Pick a country, get a curated 4-week cultural programme
 
-🧠 [**latticework**](https://github.com/Amberlanqinyun/latticework) - Charlie Munger mental models on iOS: daily wisdom, recall drills, decision journal
+[**latticework**](https://github.com/Amberlanqinyun/latticework) - Charlie Munger mental models on iOS: daily wisdom, recall drills, decision journal
 
-🫂 [**Unhook**](https://github.com/Amberlanqinyun/Unhook) - Connects people to NZ mental-health crisis and wellbeing services
+[**Unhook**](https://github.com/Amberlanqinyun/Unhook) - Connects people to NZ mental-health crisis and wellbeing services
 
-🌱 [**onedayatatime**](https://github.com/Amberlanqinyun/onedayatatime) - A gentle app for hard moments: pause, breathe, take one small step
+[**onedayatatime**](https://github.com/Amberlanqinyun/onedayatatime) - A gentle app for hard moments: pause, breathe, take one small step
