@@ -12,11 +12,11 @@ I'm an AI marketing engineer in Auckland, New Zealand. I run the whole marketing
 
 Guides on AI search, AI marketing and marketing costs for small businesses in New Zealand and Australia. All guides: [flowai.co.nz/blog](https://www.flowai.co.nz/blog/) · Glossary: [flowai.co.nz/glossary](https://www.flowai.co.nz/glossary/)
 
-<!-- BLOG-POST-LIST:START -->- [What is answer engine optimisation &lpar;AEO&rpar;? A guide for small business.](https://www.flowai.co.nz/blog/what-is-answer-engine-optimisation.html):  
-- [What is an AI CMO? A plain definition for small business.](https://www.flowai.co.nz/blog/what-is-an-ai-cmo.html):  
-- [SEO for small business in New Zealand: a practical guide.](https://www.flowai.co.nz/blog/seo-for-small-business-nz.html):  
-- [Outbound sales automation for small business: a practical guide for NZ and Australia.](https://www.flowai.co.nz/blog/outbound-sales-automation.html):  
-- [How much does a marketing agency cost in NZ?](https://www.flowai.co.nz/blog/marketing-agency-cost-nz.html):  
+<!-- BLOG-POST-LIST:START -->- [What is answer engine optimisation (AEO)? A guide for small business.](https://www.flowai.co.nz/blog/what-is-answer-engine-optimisation.html) 
+- [What is an AI CMO? A plain definition for small business.](https://www.flowai.co.nz/blog/what-is-an-ai-cmo.html) 
+- [SEO for small business in New Zealand: a practical guide.](https://www.flowai.co.nz/blog/seo-for-small-business-nz.html) 
+- [Outbound sales automation for small business: a practical guide for NZ and Australia.](https://www.flowai.co.nz/blog/outbound-sales-automation.html) 
+- [How much does a marketing agency cost in NZ?](https://www.flowai.co.nz/blog/marketing-agency-cost-nz.html) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
