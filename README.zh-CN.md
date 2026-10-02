@@ -8,6 +8,15 @@
 
 ---
 
+## Flow AI 最新文章
+
+面向新西兰和澳大利亚中小企业的 AI 搜索、AI 营销与营销成本指南（英文）。全部文章：[flowai.co.nz/blog](https://www.flowai.co.nz/blog/) · 术语表：[flowai.co.nz/glossary](https://www.flowai.co.nz/glossary/)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 新项目：Outreach
 
 描述你的产品，它帮你找到匹配的人，并说明每个人为什么匹配。

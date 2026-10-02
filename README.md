@@ -8,6 +8,15 @@ I'm an AI marketing engineer in Auckland, New Zealand. I run the whole marketing
 
 ---
 
+## Latest writing from Flow AI
+
+Guides on AI search, AI marketing and marketing costs for small businesses in New Zealand and Australia. All guides: [flowai.co.nz/blog](https://www.flowai.co.nz/blog/) · Glossary: [flowai.co.nz/glossary](https://www.flowai.co.nz/glossary/)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## New: Outreach
 
 Describe your product. It finds the people who fit and tells you why each one does.
