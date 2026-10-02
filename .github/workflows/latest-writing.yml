@@ -1,0 +1,21 @@
+name: Latest writing from Flow AI
+on:
+  schedule:
+    - cron: "0 19 * * *"   # daily, 7am NZST
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.flowai.co.nz/feed.xml"
+          max_post_count: 5
+          readme_path: "./README.md,./README.zh-CN.md"
+          template: "- [$title]($url): $description $newline"
+          commit_message: "Update latest writing from flowai.co.nz"
+          committer_username: "Amberlanqinyun"
+          committer_email: "Amberlanqinyun@users.noreply.github.com"
