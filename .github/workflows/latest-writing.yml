@@ -15,7 +15,8 @@ jobs:
           feed_list: "https://www.flowai.co.nz/feed.xml"
           max_post_count: 5
           readme_path: "./README.md,./README.zh-CN.md"
-          template: "- [$title]($url): $description $newline"
+          template: "- [$title]($url) $newline"
+          disable_html_encoding: true
           commit_message: "Update latest writing from flowai.co.nz"
           committer_username: "Amberlanqinyun"
           committer_email: "Amberlanqinyun@users.noreply.github.com"
