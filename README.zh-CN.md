@@ -12,11 +12,11 @@
 
 面向新西兰和澳大利亚中小企业的 AI 搜索、AI 营销与营销成本指南（英文）。全部文章：[flowai.co.nz/blog](https://www.flowai.co.nz/blog/) · 术语表：[flowai.co.nz/glossary](https://www.flowai.co.nz/glossary/)
 
-<!-- BLOG-POST-LIST:START -->- [What is answer engine optimisation (AEO)? A guide for small business.](https://www.flowai.co.nz/blog/what-is-answer-engine-optimisation.html) 
+<!-- BLOG-POST-LIST:START -->- [AI for marketers: what to hand to AI, and what to keep.](https://www.flowai.co.nz/blog/ai-for-marketers.html) 
+- [AI agents for marketing: which to build first, and how.](https://www.flowai.co.nz/blog/ai-agents-for-marketing.html) 
+- [AI agency, AI automation agency or AI consultant: which does an NZ business need?](https://www.flowai.co.nz/blog/ai-agency-vs-ai-consultant-nz.html) 
+- [What is answer engine optimisation (AEO)? A guide for small business.](https://www.flowai.co.nz/blog/what-is-answer-engine-optimisation.html) 
 - [What is an AI CMO? A plain definition for small business.](https://www.flowai.co.nz/blog/what-is-an-ai-cmo.html) 
-- [SEO for small business in New Zealand: a practical guide.](https://www.flowai.co.nz/blog/seo-for-small-business-nz.html) 
-- [Outbound sales automation for small business: a practical guide for NZ and Australia.](https://www.flowai.co.nz/blog/outbound-sales-automation.html) 
-- [How much does a marketing agency cost in NZ?](https://www.flowai.co.nz/blog/marketing-agency-cost-nz.html) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
