@@ -12,11 +12,11 @@ I'm an AI marketing engineer in Auckland, New Zealand. I run the whole marketing
 
 Guides on AI search, AI marketing and marketing costs for small businesses in New Zealand and Australia. All guides: [flowai.co.nz/blog](https://www.flowai.co.nz/blog/) · Glossary: [flowai.co.nz/glossary](https://www.flowai.co.nz/glossary/)
 
-<!-- BLOG-POST-LIST:START -->- [AI for marketers: what to hand to AI, and what to keep.](https://www.flowai.co.nz/blog/ai-for-marketers.html) 
+<!-- BLOG-POST-LIST:START -->- [What is a marketing engineer? What the role does and how to tell a real one.](https://www.flowai.co.nz/blog/what-is-a-marketing-engineer.html) 
+- [AI for marketers: what to hand to AI, and what to keep.](https://www.flowai.co.nz/blog/ai-for-marketers.html) 
 - [AI agents for marketing: which to build first, and how.](https://www.flowai.co.nz/blog/ai-agents-for-marketing.html) 
 - [AI agency, AI automation agency or AI consultant: which does an NZ business need?](https://www.flowai.co.nz/blog/ai-agency-vs-ai-consultant-nz.html) 
 - [What is answer engine optimisation (AEO)? A guide for small business.](https://www.flowai.co.nz/blog/what-is-answer-engine-optimisation.html) 
-- [What is an AI CMO? A plain definition for small business.](https://www.flowai.co.nz/blog/what-is-an-ai-cmo.html) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
