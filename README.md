@@ -2,7 +2,7 @@
 
 **English** · [中文](README.zh-CN.md)
 
-I'm an AI marketing engineer in Auckland, New Zealand. I run the whole marketing function at an AI startup, solo, on agent systems I build myself. Through [Flow AI](https://www.flowai.co.nz), teams contract me to build these systems with them, and I'm open to senior marketing engineer and GTM engineer roles. Notes on the setup: [running a whole marketing function on Claude Code](https://www.flowai.co.nz/blog/running-marketing-on-claude-code.html). The systems are public here. Claims ship with receipts.
+I'm an AI marketing engineer in Auckland, New Zealand. I run the whole marketing function at an AI startup, solo, on agent systems I build myself. Through [Flow AI](https://www.flowai.co.nz), teams contract me to build these systems with them, and I'm open to senior marketing engineer and GTM engineer roles. Notes on the setup: [running a whole marketing function on Claude Code](https://www.flowai.co.nz/blog/running-marketing-on-claude-code). The systems are public here. Claims ship with receipts.
 
 [flowai.co.nz](https://www.flowai.co.nz) · [LinkedIn](https://www.linkedin.com/in/amberlan/) · [Email](mailto:amber.lan.growth.digital@gmail.com)
 
@@ -12,11 +12,11 @@ I'm an AI marketing engineer in Auckland, New Zealand. I run the whole marketing
 
 Guides on AI search, AI marketing and marketing costs for small businesses in New Zealand and Australia. All guides: [flowai.co.nz/blog](https://www.flowai.co.nz/blog/) · Glossary: [flowai.co.nz/glossary](https://www.flowai.co.nz/glossary/)
 
-<!-- BLOG-POST-LIST:START -->- [What is a marketing engineer? What the role does and how to tell a real one.](https://www.flowai.co.nz/blog/what-is-a-marketing-engineer.html) 
-- [AI for marketers: what to hand to AI, and what to keep.](https://www.flowai.co.nz/blog/ai-for-marketers.html) 
-- [AI agents for marketing: which to build first, and how.](https://www.flowai.co.nz/blog/ai-agents-for-marketing.html) 
-- [AI agency, AI automation agency or AI consultant: which does an NZ business need?](https://www.flowai.co.nz/blog/ai-agency-vs-ai-consultant-nz.html) 
-- [What is answer engine optimisation (AEO)? A guide for small business.](https://www.flowai.co.nz/blog/what-is-answer-engine-optimisation.html) 
+<!-- BLOG-POST-LIST:START -->- [What is a marketing engineer? What the role does and how to tell a real one.](https://www.flowai.co.nz/blog/what-is-a-marketing-engineer) 
+- [AI for marketers: what to hand to AI, and what to keep.](https://www.flowai.co.nz/blog/ai-for-marketers) 
+- [AI agents for marketing: which to build first, and how.](https://www.flowai.co.nz/blog/ai-agents-for-marketing) 
+- [AI agency, AI automation agency or AI consultant: which does an NZ business need?](https://www.flowai.co.nz/blog/ai-agency-vs-ai-consultant-nz) 
+- [What is answer engine optimisation (AEO)? A guide for small business.](https://www.flowai.co.nz/blog/what-is-answer-engine-optimisation) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -49,7 +49,7 @@ Getting brands found by search engines and answer engines.
 
 [**flowainz**](https://github.com/Amberlanqinyun/flowainz) - AI-search-optimised SEO content, brief to publish-ready page
 
-[**AI-readiness benchmark**](https://www.flowai.co.nz/tools/benchmark.html) - A 2-minute check of how visible your business is to AI search. No email required
+[**AI-readiness benchmark**](https://www.flowai.co.nz/tools/benchmark) - A 2-minute check of how visible your business is to AI search. No email required
 
 ---
 
