@@ -2,7 +2,7 @@
 
 [English](README.md) · **中文**
 
-我是一名 AI 营销工程师，住在新西兰奥克兰。我一个人负责一家 AI 创业公司的整个市场职能，靠的是自己搭建的 agent 系统。通过 [Flow AI](https://www.flowai.co.nz)，团队可以签合同请我和他们一起搭这套系统；我也在看高级营销工程师和 GTM 工程师的职位机会。搭建笔记：[用 Claude Code 跑整个市场部](https://www.flowai.co.nz/blog/running-marketing-on-claude-code.html)（英文）。系统都在这里公开。说到的，都有凭证。
+我是一名 AI 营销工程师，住在新西兰奥克兰。我一个人负责一家 AI 创业公司的整个市场职能，靠的是自己搭建的 agent 系统。通过 [Flow AI](https://www.flowai.co.nz)，团队可以签合同请我和他们一起搭这套系统；我也在看高级营销工程师和 GTM 工程师的职位机会。搭建笔记：[用 Claude Code 跑整个市场部](https://www.flowai.co.nz/blog/running-marketing-on-claude-code)（英文）。系统都在这里公开。说到的，都有凭证。
 
 [flowai.co.nz](https://www.flowai.co.nz) · [LinkedIn](https://www.linkedin.com/in/amberlan/) · [邮箱](mailto:amber.lan.growth.digital@gmail.com)
 
@@ -12,11 +12,11 @@
 
 面向新西兰和澳大利亚中小企业的 AI 搜索、AI 营销与营销成本指南（英文）。全部文章：[flowai.co.nz/blog](https://www.flowai.co.nz/blog/) · 术语表：[flowai.co.nz/glossary](https://www.flowai.co.nz/glossary/)
 
-<!-- BLOG-POST-LIST:START -->- [What is a marketing engineer? What the role does and how to tell a real one.](https://www.flowai.co.nz/blog/what-is-a-marketing-engineer.html) 
-- [AI for marketers: what to hand to AI, and what to keep.](https://www.flowai.co.nz/blog/ai-for-marketers.html) 
-- [AI agents for marketing: which to build first, and how.](https://www.flowai.co.nz/blog/ai-agents-for-marketing.html) 
-- [AI agency, AI automation agency or AI consultant: which does an NZ business need?](https://www.flowai.co.nz/blog/ai-agency-vs-ai-consultant-nz.html) 
-- [What is answer engine optimisation (AEO)? A guide for small business.](https://www.flowai.co.nz/blog/what-is-answer-engine-optimisation.html) 
+<!-- BLOG-POST-LIST:START -->- [What is a marketing engineer? What the role does and how to tell a real one.](https://www.flowai.co.nz/blog/what-is-a-marketing-engineer) 
+- [AI for marketers: what to hand to AI, and what to keep.](https://www.flowai.co.nz/blog/ai-for-marketers) 
+- [AI agents for marketing: which to build first, and how.](https://www.flowai.co.nz/blog/ai-agents-for-marketing) 
+- [AI agency, AI automation agency or AI consultant: which does an NZ business need?](https://www.flowai.co.nz/blog/ai-agency-vs-ai-consultant-nz) 
+- [What is answer engine optimisation (AEO)? A guide for small business.](https://www.flowai.co.nz/blog/what-is-answer-engine-optimisation) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -49,7 +49,7 @@
 
 [**flowainz**](https://github.com/Amberlanqinyun/flowainz) - AI 搜索友好的 SEO 内容，从 brief 到成品页面
 
-[**AI 可见度基准测试**](https://www.flowai.co.nz/tools/benchmark.html) - 两分钟看清你的业务在 AI 搜索里有多可见。无需留邮箱
+[**AI 可见度基准测试**](https://www.flowai.co.nz/tools/benchmark) - 两分钟看清你的业务在 AI 搜索里有多可见。无需留邮箱
 
 ---
 
