@@ -2,7 +2,7 @@
 
 **English** · [中文](README.zh-CN.md)
 
-I'm an AI marketing engineer in Auckland, New Zealand. I run the whole marketing function at an AI startup, solo, on agent systems I build myself. I also run [Flow AI](https://www.flowai.co.nz), AI marketing engineering for New Zealand small businesses. The systems are public here. Claims ship with receipts.
+I'm an AI marketing engineer in Auckland, New Zealand. I run the whole marketing function at an AI startup, solo, on agent systems I build myself. Through [Flow AI](https://www.flowai.co.nz), teams contract me to build these systems with them, and I'm open to senior marketing engineer and GTM engineer roles. Notes on the setup: [running a whole marketing function on Claude Code](https://www.flowai.co.nz/blog/running-marketing-on-claude-code.html). The systems are public here. Claims ship with receipts.
 
 [flowai.co.nz](https://www.flowai.co.nz) · [LinkedIn](https://www.linkedin.com/in/amberlan/) · [Email](mailto:amber.lan.growth.digital@gmail.com)
 
@@ -37,8 +37,6 @@ The ones that run real marketing today.
 
 [**claude-ads**](https://github.com/Amberlanqinyun/claude-ads) - Paid-media operations skill for Claude Code across 12 ad platforms: source-grounded audits, deterministic scoring, versioned reports
 
-[**novie-content-engine**](https://github.com/Amberlanqinyun/novie-content-engine) - One source document becomes a month of on-brand posts, gated by a codified voice audit so nothing reads "generated"
-
 [**flowainz**](https://github.com/Amberlanqinyun/flowainz) - Flow AI: automated, AI-search-optimised SEO content for NZ service businesses. A brief goes in, publish-ready pages come out
 
 ---
@@ -58,8 +56,6 @@ Getting brands found by search engines and answer engines.
 ## Content & outbound
 
 Systems that write, publish, and find the right people.
-
-[**novie-content-engine**](https://github.com/Amberlanqinyun/novie-content-engine) - One document, a month of posts, voice audit included
 
 [**social-media-os**](https://github.com/Amberlanqinyun/social-media-os) - Plan once, ship platform-native versions on schedule
 

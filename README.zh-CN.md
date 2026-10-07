@@ -2,7 +2,7 @@
 
 [English](README.md) · **中文**
 
-我是一名 AI 营销工程师，住在新西兰奥克兰。我一个人负责一家 AI 创业公司的整个市场职能，靠的是自己搭建的 agent 系统。我也在做 [Flow AI](https://www.flowai.co.nz)，为新西兰的中小企业提供 AI 营销工程服务。系统都在这里公开。说到的，都有凭证。
+我是一名 AI 营销工程师，住在新西兰奥克兰。我一个人负责一家 AI 创业公司的整个市场职能，靠的是自己搭建的 agent 系统。通过 [Flow AI](https://www.flowai.co.nz)，团队可以签合同请我和他们一起搭这套系统；我也在看高级营销工程师和 GTM 工程师的职位机会。搭建笔记：[用 Claude Code 跑整个市场部](https://www.flowai.co.nz/blog/running-marketing-on-claude-code.html)（英文）。系统都在这里公开。说到的，都有凭证。
 
 [flowai.co.nz](https://www.flowai.co.nz) · [LinkedIn](https://www.linkedin.com/in/amberlan/) · [邮箱](mailto:amber.lan.growth.digital@gmail.com)
 
@@ -37,8 +37,6 @@
 
 [**claude-ads**](https://github.com/Amberlanqinyun/claude-ads) - Claude Code 的付费投放运营技能，覆盖 12 个广告平台：有据可查的审计、确定性评分、版本化报告
 
-[**novie-content-engine**](https://github.com/Amberlanqinyun/novie-content-engine) - 一份源文档生成一个月的品牌内容，经过代码化的语气审核，读起来不像"生成的"
-
 [**flowainz**](https://github.com/Amberlanqinyun/flowainz) - Flow AI：面向新西兰服务型企业的自动化、AI 搜索友好的 SEO 内容。输入一份 brief，输出可直接发布的页面
 
 ---
@@ -58,8 +56,6 @@
 ## 内容与获客
 
 会写、会发、会找对人的系统。
-
-[**novie-content-engine**](https://github.com/Amberlanqinyun/novie-content-engine) - 一份文档，一个月内容，自带语气审核
 
 [**social-media-os**](https://github.com/Amberlanqinyun/social-media-os) - 规划一次，按时发出各平台原生版本
 
