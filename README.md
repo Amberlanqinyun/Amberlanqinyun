@@ -12,11 +12,11 @@ I'm an AI marketing engineer in Auckland, New Zealand. I run the whole marketing
 
 Guides on AI search, AI marketing and marketing costs for small businesses in New Zealand and Australia. All guides: [flowai.co.nz/blog](https://www.flowai.co.nz/blog/) · Glossary: [flowai.co.nz/glossary](https://www.flowai.co.nz/glossary/)
 
-<!-- BLOG-POST-LIST:START -->- [What is a marketing engineer? What the role does and how to tell a real one.](https://www.flowai.co.nz/blog/what-is-a-marketing-engineer) 
+<!-- BLOG-POST-LIST:START -->- [How do you run a whole marketing function on Claude Code?](https://www.flowai.co.nz/blog/running-marketing-on-claude-code) 
+- [Marketing engineer and AI marketing jobs in New Zealand and Australia: what the 2026 data shows.](https://www.flowai.co.nz/blog/marketing-engineer-jobs-nz-australia-2026) 
+- [How does New Zealand's AI Advisory Pilot fund AI for small businesses?](https://www.flowai.co.nz/blog/ai-advisory-pilot-nz) 
+- [What is a marketing engineer? What the role does and how to tell a real one.](https://www.flowai.co.nz/blog/what-is-a-marketing-engineer) 
 - [AI for marketers: what to hand to AI, and what to keep.](https://www.flowai.co.nz/blog/ai-for-marketers) 
-- [AI agents for marketing: which to build first, and how.](https://www.flowai.co.nz/blog/ai-agents-for-marketing) 
-- [AI agency, AI automation agency or AI consultant: which does an NZ business need?](https://www.flowai.co.nz/blog/ai-agency-vs-ai-consultant-nz) 
-- [What is answer engine optimisation (AEO)? A guide for small business.](https://www.flowai.co.nz/blog/what-is-answer-engine-optimisation) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
