@@ -12,11 +12,11 @@
 
 面向新西兰和澳大利亚中小企业的 AI 搜索、AI 营销与营销成本指南（英文）。全部文章：[flowai.co.nz/blog](https://www.flowai.co.nz/blog/) · 术语表：[flowai.co.nz/glossary](https://www.flowai.co.nz/glossary/)
 
-<!-- BLOG-POST-LIST:START -->- [How do you run a whole marketing function on Claude Code?](https://www.flowai.co.nz/blog/running-marketing-on-claude-code) 
-- [Marketing engineer and AI marketing jobs in New Zealand and Australia: what the 2026 data shows.](https://www.flowai.co.nz/blog/marketing-engineer-jobs-nz-australia-2026) 
-- [How does New Zealand's AI Advisory Pilot fund AI for small businesses?](https://www.flowai.co.nz/blog/ai-advisory-pilot-nz) 
-- [What is a marketing engineer? What the role does and how to tell a real one.](https://www.flowai.co.nz/blog/what-is-a-marketing-engineer) 
-- [AI for marketers: what to hand to AI, and what to keep.](https://www.flowai.co.nz/blog/ai-for-marketers) 
+<!-- BLOG-POST-LIST:START -->- [What do AI marketing services include? A buyer's checklist.](https://www.flowai.co.nz/blog/what-do-ai-marketing-services-include) 
+- [How much does a marketing agency cost in Australia? (2026, AUD)](https://www.flowai.co.nz/blog/marketing-agency-cost-australia) 
+- [How to choose an AI marketing agency or provider: 12 questions to ask.](https://www.flowai.co.nz/blog/how-to-choose-an-ai-marketing-provider) 
+- [How do Auckland businesses get recommended by ChatGPT and Google Maps?](https://www.flowai.co.nz/blog/get-recommended-by-chatgpt-auckland) 
+- [What happens in the first month of an AI marketing build? A week-by-week guide.](https://www.flowai.co.nz/blog/first-month-of-an-ai-marketing-build) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
