@@ -8,6 +8,14 @@ I'm an AI marketing engineer in Auckland, New Zealand. I run the whole marketing
 
 ---
 
+## Flow AI in one minute
+
+[![Flow AI in one minute: Flow Intelligence briefs ten marketing agents, and a person approves every send](assets/flowai-film.jpg)](https://www.flowai.co.nz/sprints/#film)
+
+A silent one-minute film of the whole system: positioning first, then ten agents across getting found, getting leads and keeping customers, with a person approving every send. [Watch it on flowai.co.nz](https://www.flowai.co.nz/sprints/#film)
+
+---
+
 ## Latest writing from Flow AI
 
 Guides on AI search, AI marketing and marketing costs for small businesses in New Zealand and Australia. All guides: [flowai.co.nz/blog](https://www.flowai.co.nz/blog/) · Glossary: [flowai.co.nz/glossary](https://www.flowai.co.nz/glossary/)

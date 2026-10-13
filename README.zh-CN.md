@@ -8,6 +8,14 @@
 
 ---
 
+## 一分钟了解 Flow AI
+
+[![一分钟了解 Flow AI：Flow Intelligence 给十个营销智能体下达简报，每一次发送都由人来批准](assets/flowai-film.jpg)](https://www.flowai.co.nz/zh/sprints/#film)
+
+一段一分钟的无声短片，讲清整个系统：先定位，再由十个智能体负责被找到、获取线索和留住客户，每一次发送都由人来批准。[在 flowai.co.nz 观看](https://www.flowai.co.nz/zh/sprints/#film)
+
+---
+
 ## Flow AI 最新文章
 
 面向新西兰和澳大利亚中小企业的 AI 搜索、AI 营销与营销成本指南（英文）。全部文章：[flowai.co.nz/blog](https://www.flowai.co.nz/blog/) · 术语表：[flowai.co.nz/glossary](https://www.flowai.co.nz/glossary/)
