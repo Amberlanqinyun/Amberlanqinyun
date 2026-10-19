@@ -2,21 +2,21 @@
 
 **English** · [中文](README.zh-CN.md)
 
-I'm an AI marketing engineer in Auckland, New Zealand. I run the whole marketing function at an AI startup, solo, on agent systems I build myself. Through [Flow AI](https://www.flowai.co.nz), teams contract me to build these systems with them, and I'm open to senior marketing engineer and GTM engineer roles. Notes on the setup: [running a whole marketing function on Claude Code](https://www.flowai.co.nz/blog/running-marketing-on-claude-code). The systems are public here. Claims ship with receipts.
+I'm an AI marketing engineer in Auckland, New Zealand. I run the whole marketing function at an AI startup, solo, on agent systems I build myself. At [flowai.co.nz](https://www.flowai.co.nz), teams contract me to build these systems with them, and I'm open to senior marketing engineer and GTM engineer roles. Notes on the setup: [running a whole marketing function on Claude Code](https://www.flowai.co.nz/blog/running-marketing-on-claude-code). The systems are public here. Claims ship with receipts.
 
 [flowai.co.nz](https://www.flowai.co.nz) · [LinkedIn](https://www.linkedin.com/in/amberlan/) · [Email](mailto:amber.lan.growth.digital@gmail.com)
 
 ---
 
-## Flow AI in one minute
+## The system in one minute
 
-[![Flow AI in one minute: Flow Intelligence briefs ten marketing agents, and a person approves every send](assets/flowai-film.jpg)](https://www.flowai.co.nz/sprints/#film)
+[![The system in one minute: Flow Intelligence briefs ten marketing agents, and a person approves every send](assets/flowai-film.jpg)](https://www.flowai.co.nz/sprints/#film)
 
 A silent one-minute film of the whole system: positioning first, then ten agents across getting found, getting leads and keeping customers, with a person approving every send. [Watch it on flowai.co.nz](https://www.flowai.co.nz/sprints/#film)
 
 ---
 
-## Latest writing from Flow AI
+## Latest writing
 
 Guides on AI search, AI marketing and marketing costs for small businesses in New Zealand and Australia. All guides: [flowai.co.nz/blog](https://www.flowai.co.nz/blog/) · Glossary: [flowai.co.nz/glossary](https://www.flowai.co.nz/glossary/)
 
@@ -45,7 +45,7 @@ The ones that run real marketing today.
 
 [**claude-ads**](https://github.com/Amberlanqinyun/claude-ads) - Paid-media operations skill for Claude Code across 12 ad platforms: source-grounded audits, deterministic scoring, versioned reports
 
-[**flowainz**](https://github.com/Amberlanqinyun/flowainz) - Flow AI: automated, AI-search-optimised SEO content for NZ service businesses. A brief goes in, publish-ready pages come out
+[**flowainz**](https://github.com/Amberlanqinyun/flowainz) - Automated, AI-search-optimised SEO content for NZ service businesses. A brief goes in, publish-ready pages come out
 
 ---
 
