@@ -2,21 +2,21 @@
 
 [English](README.md) · **中文**
 
-我是一名 AI 营销工程师，住在新西兰奥克兰。我一个人负责一家 AI 创业公司的整个市场职能，靠的是自己搭建的 agent 系统。通过 [Flow AI](https://www.flowai.co.nz)，团队可以签合同请我和他们一起搭这套系统；我也在看高级营销工程师和 GTM 工程师的职位机会。搭建笔记：[用 Claude Code 跑整个市场部](https://www.flowai.co.nz/blog/running-marketing-on-claude-code)（英文）。系统都在这里公开。说到的，都有凭证。
+我是一名 AI 营销工程师，住在新西兰奥克兰。我一个人负责一家 AI 创业公司的整个市场职能，靠的是自己搭建的 agent 系统。在 [flowai.co.nz](https://www.flowai.co.nz)，团队可以签合同请我和他们一起搭这套系统；我也在看高级营销工程师和 GTM 工程师的职位机会。搭建笔记：[用 Claude Code 跑整个市场部](https://www.flowai.co.nz/blog/running-marketing-on-claude-code)（英文）。系统都在这里公开。说到的，都有凭证。
 
 [flowai.co.nz](https://www.flowai.co.nz) · [LinkedIn](https://www.linkedin.com/in/amberlan/) · [邮箱](mailto:amber.lan.growth.digital@gmail.com)
 
 ---
 
-## 一分钟了解 Flow AI
+## 一分钟了解这套系统
 
-[![一分钟了解 Flow AI：Flow Intelligence 给十个营销智能体下达简报，每一次发送都由人来批准](assets/flowai-film.jpg)](https://www.flowai.co.nz/zh/sprints/#film)
+[![一分钟了解这套系统：Flow Intelligence 给十个营销智能体下达简报，每一次发送都由人来批准](assets/flowai-film.jpg)](https://www.flowai.co.nz/zh/sprints/#film)
 
 一段一分钟的无声短片，讲清整个系统：先定位，再由十个智能体负责被找到、获取线索和留住客户，每一次发送都由人来批准。[在 flowai.co.nz 观看](https://www.flowai.co.nz/zh/sprints/#film)
 
 ---
 
-## Flow AI 最新文章
+## 最新文章
 
 面向新西兰和澳大利亚中小企业的 AI 搜索、AI 营销与营销成本指南（英文）。全部文章：[flowai.co.nz/blog](https://www.flowai.co.nz/blog/) · 术语表：[flowai.co.nz/glossary](https://www.flowai.co.nz/glossary/)
 
@@ -45,7 +45,7 @@
 
 [**claude-ads**](https://github.com/Amberlanqinyun/claude-ads) - Claude Code 的付费投放运营技能，覆盖 12 个广告平台：有据可查的审计、确定性评分、版本化报告
 
-[**flowainz**](https://github.com/Amberlanqinyun/flowainz) - Flow AI：面向新西兰服务型企业的自动化、AI 搜索友好的 SEO 内容。输入一份 brief，输出可直接发布的页面
+[**flowainz**](https://github.com/Amberlanqinyun/flowainz) - 面向新西兰服务型企业的自动化、AI 搜索友好的 SEO 内容。输入一份 brief，输出可直接发布的页面
 
 ---
 
