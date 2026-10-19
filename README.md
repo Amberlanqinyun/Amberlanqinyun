@@ -20,11 +20,11 @@ A silent one-minute film of the whole system: positioning first, then ten agents
 
 Guides on AI search, AI marketing and marketing costs for small businesses in New Zealand and Australia. All guides: [flowai.co.nz/blog](https://www.flowai.co.nz/blog/) · Glossary: [flowai.co.nz/glossary](https://www.flowai.co.nz/glossary/)
 
-<!-- BLOG-POST-LIST:START -->- [n8n, Zapier, Make or Claude Code: which automation tool suits a small business?](https://www.flowai.co.nz/blog/n8n-vs-zapier-vs-make-vs-claude-code) 
+<!-- BLOG-POST-LIST:START -->- [How do you build a live marketing report with Claude Code?](https://www.flowai.co.nz/blog/live-marketing-report-claude-code) 
+- [n8n, Zapier, Make or Claude Code: which automation tool suits a small business?](https://www.flowai.co.nz/blog/n8n-vs-zapier-vs-make-vs-claude-code) 
 - [How to hire an AI agent developer: questions to ask, red flags and what you should own.](https://www.flowai.co.nz/blog/how-to-hire-an-ai-agent-developer) 
 - [Claude for business or ChatGPT Business: what does each cost a New Zealand team in 2026?](https://www.flowai.co.nz/blog/claude-vs-chatgpt-business-cost-nz) 
 - [Claude Code for marketing agencies: what to build first, and how to keep it safe.](https://www.flowai.co.nz/blog/claude-code-for-marketing-agencies) 
-- [AI consultant rates in New Zealand and Australia (2026): hourly, daily and project pricing.](https://www.flowai.co.nz/blog/ai-consultant-rates-nz-australia) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
